@@ -1,7 +1,7 @@
 
 import React from 'react';
 
-import fotoCadastro from '/home/newton/desafio 2/desafio2app/src/assets/img/day14-forklift_adobespark.png'
+import fotoCadastro from '/home/newton/desafio 2/desafio2app/desafio02_hiringcoders/src/assets/img/day14-forklift_adobespark.png'
 
 
 export default props =>

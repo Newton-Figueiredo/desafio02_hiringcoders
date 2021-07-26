@@ -1,9 +1,9 @@
 import React from 'react';
 
 import {Switch, Route} from 'react-router-dom';
-import '/home/newton/desafio 2/desafio2app/src/style/main.css';
+import '/home/newton/desafio 2/desafio2app/desafio02_hiringcoders/src/style/main.css';
 
-import App from '/home/newton/desafio 2/desafio2app/src/app.js';
+import App from '/home/newton/desafio 2/desafio2app/desafio02_hiringcoders/src/app.js';
 
 import Inicio from './content/inicio.js';
 import Sobre from './content/sobre.js';

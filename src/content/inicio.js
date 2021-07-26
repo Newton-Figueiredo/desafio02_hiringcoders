@@ -2,7 +2,7 @@
 import React from 'react';
 
 
-import fotohome from '/home/newton/desafio 2/desafio2app/src/assets/img/day9-toolbox_adobespark.png'
+import fotohome from '/home/newton/desafio 2/desafio2app/desafio02_hiringcoders/src/assets/img/day9-toolbox_adobespark.png'
 
 export default props =>
     <div className="main-inicio">

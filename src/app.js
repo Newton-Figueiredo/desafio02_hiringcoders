@@ -2,8 +2,8 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
 
-import '/home/newton/desafio 2/desafio2app/src/style/main.css';
-import logoGato from '/home/newton/desafio 2/desafio2app/src/assets/img/black-cat.png'
+import '/home/newton/desafio 2/desafio2app/desafio02_hiringcoders/src/style/main.css';
+import logoGato from '/home/newton/desafio 2/desafio2app/desafio02_hiringcoders/src/assets/img/black-cat.png'
 
 export default props =>
     <div className="main-div">
